@@ -1,4 +1,4 @@
-#import "@local/booktabs:0.0.1": *
+#import "@preview/booktabs:0.0.2": *
 
 #set page(width: auto, height: auto, margin: 15pt)
 

@@ -10,7 +10,7 @@ For information, see the [online manual](https://booktabs.github.io/docs).
 To use this package, simply add the following code to your document:
 
 ```typ
-#import "@preview/booktabs:0.0.1": *
+#import "@preview/booktabs:0.0.2": *
 
 #table(
   columns: 3,
@@ -32,5 +32,6 @@ To use this package, simply add the following code to your document:
   [16.6],
   [104],
   bottomrule() // added by this package
+)
 ```
 [<img src="./examples/simple_table.png">](./examples/simple_table.pdf)
