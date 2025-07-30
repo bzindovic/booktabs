@@ -5,12 +5,12 @@ Booktabs is a Typst package inspired by the fabulous LaTeX's Booktabs package.
 
 ## Usage
 
-For information, see the [online manual](https://bzindovic.github.io/booktabs/docs).
+For information, see the [online manual](https://bzindovic.github.io/booktabs/).
 
 To use this package, simply add the following code to your document:
 
 ```typ
-#import "@preview/booktabs:0.0.2": *
+#import "@preview/booktabs:0.0.3": *
 
 #table(
   columns: 3,
