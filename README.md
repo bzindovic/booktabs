@@ -35,3 +35,7 @@ To use this package, simply add the following code to your document:
 )
 ```
 [<img src="./examples/simple_table.png">](./examples/simple_table.pdf)
+
+## Contributing
+
+See https://github.com/bzindovic/booktabs/blob/main/docs/CONTRIBUTING.md.
