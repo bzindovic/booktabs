@@ -27,3 +27,8 @@
 
   table.hline(y: y, stroke: stroke, start: mystart, end: myend)
 }
+
+#let booktabs-default-table-style(doc) = [
+  #set table(stroke: none)
+  #doc
+]

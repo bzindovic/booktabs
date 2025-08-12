@@ -1,8 +1,7 @@
-#import "@preview/booktabs:0.0.3": *
+#import "@preview/booktabs:0.0.4": *
+#show: booktabs-default-table-style
 
 #set page(width: auto, height: auto, margin: 15pt)
-
-#set table(stroke: none)
 
 #table(
   columns: 3,
