@@ -7,6 +7,8 @@ sidebar_position: 0
 
 Booktabs is a [Typst](https://typst.app/) package for styling tables. The aim is to make a direct API port from LaTeX's package named [booktabs](https://ctan.org/pkg/booktabs/).
 
+See the [API reference](/booktabs/api/) for details on all exported functions and arguments.
+
 These docs are a work in progress! Please submit issues for parts that don't make sense or need improving.
 
 I am also still trying to find a logo for Booktabs so if you have any ideas please let me know.
